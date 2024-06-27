@@ -4,7 +4,7 @@ Torneo Tennis
 
 El proyecto tiene 3 clases que corresponden al siguiente diagrama:
 
-
+![Diagrama de clases](modelos.png)
 
 
 - Se utilizo como framework codeigniter 3.
